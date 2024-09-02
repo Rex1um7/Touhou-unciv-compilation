@@ -155,4 +155,34 @@
 		],
 		"requiredTech": "Writing"
 	},
+
+	// Fairy Alliance ( Cirno )
+	{
+		"name": "Art Center",
+		"replaces": "Amphitheater",
+		"cost": 120,
+		"maintenance": 2,
+		"happiness": 2,
+		"culture": 4,
+		"uniqueTo": "Fairy Alliance",
+		"specialistSlots": {"Artist": 1},
+		"requiredBuilding": "Monument",
+		"hurryCostModifier": 25,
+		"requiredTech": "Drama and Poetry"
+	},
+	{
+		"name": "Fairy Epic",
+		"replaces": "National Epic",
+		"cost": 140,
+		"uniqueTo": "Fairy Alliance",
+		"culture": 2,
+		"uniques": [
+			"Only available <if [Art Center] is constructed in all [non-[Puppeted]] cities>",
+			"[+25]% Great Person generation [in this city]", 
+			"Free Social Policy", 
+			"Cost increases by [30] per owned city"
+		],
+		"isNationalWonder": true,
+		"requiredTech": "Drama and Poetry"
+	},
 ]
