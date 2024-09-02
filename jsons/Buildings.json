@@ -12,7 +12,7 @@
 		"uniques": ["[+25]% Great Person generation [in this city]","All newly-trained [non-air] units [in this city] receive the [Eased-Mind] promotion", "[+40]% Production when constructing [Land] units [in all cities]"],
 		"requiredTech": "Drama and Poetry"
 		"quote": "This statue is said to be so cute that you forget your problems just by admiring it."
-	}
+	},
 	{
 		"name": "Youkai's Teaching Methods",
 		"uniqueTo": "Kurai Sekai",
@@ -239,8 +239,7 @@
 		"cost": 30,
 		"hurryCostModifier": 40,
 		"maintenance": 0,
-	},
-		
+	},	
 	{
 		"name": "Shinto Shrine", 
 		"replaces": "Shrine",
@@ -251,5 +250,65 @@
 		"requiredTech": "Pottery",
 	},
 
-	
+	// Chireiden ( Satori Komeiji )
+	{
+		"name": "Eternal Furnace",
+		"uniqueTo": "Chireiden",
+		"production": 3,
+		"cost": 55,
+		"hurryCostModifier": 25,
+		"maintenance": 1
+		"uniques": ["All newly-trained [Sword] units [in this city] receive the [Sharpened Blades] promotion"]
+		"requiredTech": "Pottery"
+	},
+	{
+		"name": "Underground Mining",
+		"uniqueTo": "Chireiden",
+		"cost": 75,
+		"hurryCostModifier": 25,
+		"maintenance": 0
+		"uniques": ["[+15]% Yield from every [Mine]"]
+		"requiredTech": "Iron Working"
+	},
+	{
+		"name": "Soul-Fueled Furnace",
+		"uniqueTo": "Chireiden",
+		"cost": 110,
+		"production": 2,
+		"maintenance": 2,
+		"hurryCostModifier": 25,
+		"unique": ["[+20]% [Production] [in all cities]"]
+		"requiredTech": "Metal Casting",
+	},
+	{
+		"name": "Pen of Palace Pets",
+		"uniqueTo": "Chireiden",
+		"replaces": "Forbidden Palace"
+		"isWonder": true,
+		"uniques": ["[+2 Culture]", "[-10]% Unhappiness from [Population] [in all cities]", "[10] units cost no maintenance"]
+		"requiredTech": "Banking"
+	},
+	{
+		"name": "Tea-Making House",
+		"uniqueTo": "Chireiden",
+		"cost": 75
+		"uniques": ["[+2 Happiness]"]
+		"requiredTech": "Construction"
+	},
+	{
+		"name": "Palace on the Ground",
+		"uniqueTo": "Chireiden",
+		"isWonder": true,
+		"cost": 200
+		"uniques": ["[+2 Culture]", "Empire enters golden age", "[50]% of excess happiness converted to [Production]", "Resting point for Influence with City-States is increased by [10]", "[-50]% City-State Influence degradation", "City-State Influence recovers at twice the normal rate"]
+		"requiredTech": "Architecture"
+	},
+	{
+		"name": "Okuu's Nuclear Reactor",
+		"uniqueTo": "Chireiden",
+		"isWonder": true,
+		"cost": 450
+		"uniques": ["[+5 Production] [in all cities]"]
+		"requiredTech": "Atomic Theory"
+	}
 ]
