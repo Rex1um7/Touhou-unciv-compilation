@@ -197,4 +197,18 @@
 		"hurryCostModifier": 20,
 		"attackSound": "arrow"
 	},
+
+	// The Scarlet Estate ( Remilia Scarlet )
+	{
+		"name": "Fairy Maid",
+		"unitType": "Civilian",
+		"uniqueTo": "The Scarlet Estate",
+		"replaces": "Worker",
+		"movement": 2,
+		"cost": 60,
+		"uniques": [
+			"Can build [Land] improvements on tiles", 
+			"Ignores terrain cost", 
+			"May withdraw before melee <with [50]% chance>"],
+	},
 ]
