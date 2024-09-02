@@ -177,4 +177,24 @@
 		"obsoleteTech": "Mobile Tactics",
 		"attackSound": "shot"
 	},
+
+	// Ningen-no-Sato-Touhou ( Kamishirasawa Keine )
+	{
+		"name": "Youkai Hunters",
+		"unitType": "Ranged",
+		"uniqueTo": "Ningen no Sato",
+		"replaces": "Crossbowman",
+		"movement": 3,
+		"range": 2,
+		"strength": 14,
+		"rangedStrength": 20,
+		"cost": 120,
+		"uniques": ["Ignores terrain cost"],
+		"promotions": ["Scouting I"],
+		"requiredTech": "Machinery",
+		"upgradesTo": "Gatling Gun",
+		"obsoleteTech": "Steam Power",
+		"hurryCostModifier": 20,
+		"attackSound": "arrow"
+	},
 ]
