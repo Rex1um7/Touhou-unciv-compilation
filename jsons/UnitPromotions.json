@@ -110,4 +110,38 @@
 		"uniques": ["[+50]% Strength"],
 		"unitTypes": ["Dark Youkai"],
 	},
+
+	// The Unified Doll Front ( Alice Margatroid )
+	{
+		"name": "Doll Construct",
+		"uniques": [
+			"[-30]% Strength <when attacking>",
+		        "[-30]% Strength <when defending>",
+			"[-10]% Strength <vs cities>",
+			"[10]% Strength <in [Forest] tiles>", 
+			"[+10]% Strength <in [Jungle] tiles>",
+			"[+40]% Strength <in [Doll lumber house] tiles>",
+			"[7] HP when healing <in [Doll lumber house] tiles>"
+		],
+	},
+	{
+		"name": "Doll Gunpowder",
+		"uniques": [
+			"[+50]% Strength <vs cities>",
+			"[+25]% Strength <in [Fort] tiles>",
+			"[+25]% Strength <in [Citadel] tiles>",
+			"[+20]% Strength <in [Doll lumber house] tiles>",
+			"[5] HP when healing <in [Doll lumber house] tiles>",
+			"[9] HP when healing"
+		],
+	},
+	{
+		"name": "Round Table Doll",
+		"uniques": [
+			"[10] HP when healing",
+			"[-10]% Strength for enemy [Military] units in adjacent [All] tiles",
+			"Can instantly construct a [Fort] improvement",
+			"[+10]% Strength <in [Doll lumber house] tiles>"
+		],
+	},
 ]
