@@ -145,5 +145,29 @@
 					"House of Spades", "Makai City", "A Page of the Grimoire", "The City of Dolls", "House of Diamonds", "House of Cards", "PC-98 Alice's Lair", "The Rainbow-Colored House", "World Famous Mr. Alice's House", "The Precious Thing"]
 	},
 
+	// Hakurei Shrine ( Reimu )
+	{
+		"name": "Hakurei Shrine",
+		"leaderName": "Reimu",
+		"adjective": ["Maiden"],
+		"startBias": ["Hill"],
+		"preferredVictoryType": "Cultural",
+
+		"startIntroPart1": "I am the shrine maiden of the Hakurei Shrine, Reimu Hakurei. Do you want some tea?",
+		"startIntroPart2": "You happened to be the incarnation of the Hakurei God. Your shrine maiden, Reimu Hakurei, will serve you in your youkai-extermination from now on.",
+		"declaringWar": "You're a youkai, aren't you? Prepare to be exterminated!",
+		"attacked": "Hey, at least take off your shoes before you step on the shrine!",
+		"defeated": "Alright, I lose.",
+		"introduction": "I am Reimu Hakurei, do you want some tea?",
+		"neutralHello": "Do you want to help me clean the shrine?",
+		"hateHello": "Hmph!",
+		"tradeRequest": "Please, donate to the shrine!",
+		"outerColor": [255,255,255],
+		"innerColor": [255,0,0],
+		"uniqueName": "Lineage Of Shrine Maidens",
+		"uniques": ["Free Great Person <upon entering a Golden Age>", "[+1] Movement <for [Shrine Guardian] units> <in [Friendly Land] tiles> <during a Golden Age>"]
+		"cities": ["Hakurei Shrine"]
+	},
+
 	
 ]
