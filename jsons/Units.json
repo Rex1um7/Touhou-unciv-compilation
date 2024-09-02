@@ -230,4 +230,34 @@
 		"hurryCostModifier": 20,
 		"attackSound": "machinegun"
 	},
+
+	// Hakurei Shrine ( Reimu )
+	{
+		"name": "Komainu Guardian",
+		"unitType": "Sword",
+		"uniqueTo": "Hakurei Shrine",
+		"replaces": "Warrior",
+		"movement": 2,
+		"strength": 8,
+		"cost": 40,
+		"obsoleteTech": "Iron Working",
+		"upgradesTo": "Komainu Pair",
+		"promotions": ["Shrine Guardian"]
+	},
+	{
+		"name": "Komainu Pair",
+		"unitType": "Sword",
+		"uniqueTo": "Hakurei Shrine",
+		"replaces": "Swordsman",
+		"movement": 2,
+		"strength": 15,
+		"cost": 75,
+		"uniques": ["[1] additional attacks per turn", "[-38]% Strength <when attacking>"]
+		"requiredTech": "Iron Working",
+		"upgradesTo": "Longswordsman",
+		"obsoleteTech": "Gunpowder",
+		"hurryCostModifier": 20,
+		"promotions": ["Shrine Guardian"],
+		"attackSound": "metalhit"
+	},
 ]
