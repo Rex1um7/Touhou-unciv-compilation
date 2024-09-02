@@ -144,4 +144,10 @@
 			"[+10]% Strength <in [Doll lumber house] tiles>"
 		],
 	},
+
+	// Hakurei Shrine ( Reimu )
+	{
+		"name": "Shrine Guardian",
+		"uniques": ["Shrine Guardian", "[+20]% Strength <when fighting in [Friendly Land] tiles>"]
+	}
 ]
