@@ -1,1 +1,112 @@
-
+[	
+	{
+		"name": "Man-Eating Youkai",
+		"uniques": [
+			"Heals [20] damage if it kills a unit", 
+			"[This Unit] heals [18] HP <upon being promoted>", 
+			"Can only heal by pillaging"
+		]
+	},
+	{
+		"name": "Instinct Restraint",
+		"uniques": ["[+10]% XP gained from combat"]
+	},
+	{
+		"name": "Instinct Mastery",
+		"uniques": ["[+15]% XP gained from combat"]
+	},
+	{
+		"name": "Eased-Mind",
+		"uniques": ["All healing effects doubled"]
+	},
+	{
+		"name": "Darkness Manipulation",
+		"uniques": ["All healing effects doubled", "Access to special promotions"]
+	},
+	{
+		"name": "Levitation",
+		"prerequisites": ["Darkness Manipulation"],
+		"uniques": ["Ignores terrain cost", "No movement cost to pillage"],
+		"unitTypes": ["Dark Youkai"]
+	},
+	{
+		"name": "Savoring",
+		"prerequisites": ["Darkness Manipulation"],
+		"uniques": ["Heals [20] damage if it kills a unit"],
+		"unitTypes": ["Dark Youkai"],
+	},
+	{
+		"name": "Maturing",
+		"prerequisites": ["Levitation", "Savoring"],
+		"uniques": ["[+30]% Strength", "[-1] Sight", "[+10]% XP gained from combat"],
+		"unitTypes": ["Dark Youkai"],
+	},
+	{
+		"name": "Precise Strike",
+		"prerequisites": ["Maturing"],
+		"uniques": ["[+20]% Strength"]
+		"unitTypes": ["Dark Youkai"],
+	},
+	{
+		"name": "Careful",
+		"prerequisites": ["Precise Strike"],
+		"uniques": ["May withdraw before melee <with [50]% chance>", "Can move after attacking"],
+		"unitTypes": ["Dark Youkai"],
+	},
+	{
+		"name": "Shadow Trick",
+		"prerequisites": ["Precise Strike"],
+		"uniques": ["Ignores Zone of Control"],
+		"unitTypes": ["Dark Youkai"],
+	},
+	{
+		"name": "Friendly Demeanor",
+		"prerequisites": ["Careful", "Shadow Trick"],
+		"uniques": ["May enter foreign tiles without open borders"],
+		"unitTypes": ["Dark Youkai"],
+	},
+	{
+		"name": "Danmaku",
+		"uniques": ["[+30]% XP gained from combat", "Access to special promotions"]
+	},
+	{
+		"name": "Spell Cards I",
+		"prerequisites": ["Danmaku"],
+		"uniques": ["[2] XP gained from combat"],
+		"unitTypes": ["Dark Youkai"],
+	},
+	{
+		"name": "Moonlight Ray",
+		"prerequisites": ["Spell Cards I"],
+		"uniques": ["[+1] Range", "[-50]% Strength <when attacking>"],
+		"unitTypes": ["Dark Youkai"],
+	},
+	{
+		"name": "Night Bird",
+		"prerequisites": ["Spell Cards I"],
+		"uniques": ["[+1] Sight", "[+1] Movement <in [Forest] tiles>", "[+1] Movement <in [Jungle] tiles>"],
+		"unitTypes": ["Dark Youkai"],
+	},
+	{
+		"name": "Demarcation",
+		"prerequisites": ["Spell Cards I"],
+		"uniques": [
+			"[+10]% Strength", 
+			"[+20]% Strength <after turn number [10]>", 
+			"[+30]% Strength <after turn number [20]>"
+		]
+		"unitTypes": ["Dark Youkai"],
+	},
+	{
+		"name": "Spell Cards II",
+		"prerequisites": ["Moonlight Ray", "Night Bird", "Demarcation"],
+		"uniques": ["[3] XP gained from combat"],
+		"unitTypes": ["Dark Youkai"],
+	},
+	{
+		"name": "Last Word",
+		"prerequisites": ["Spell Cards II"],
+		"uniques": ["[+50]% Strength"],
+		"unitTypes": ["Dark Youkai"],
+	},
+]
