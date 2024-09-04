@@ -151,7 +151,15 @@
 		"name": "Modern Rumia",
 		"uniqueTo": "Kurai Sekai",
 		"unitType": "Civilian",
-		"uniques": ["Limited to [1] per Civilization", "[+20]% Strength bonus for [{Military} {Land}] units within [2] tiles", "May Paradrop up to [10] tiles from inside friendly territory", "Can build [Land] improvements on tiles", "Unbuildable", "Cannot be purchased", "Uncapturable"],
+		"uniques": [
+			"Limited to [1] per Civilization", 
+			"[+20]% Strength bonus for [{Military} {Land}] units within [2] tiles", 
+			"May Paradrop up to [10] tiles from inside friendly territory", 
+			"Can build [Land] improvements on tiles", 
+			"Unbuildable", 
+			"Cannot be purchased", 
+			"Uncapturable"
+		],
 		"movement": 4
 	},
 	{
@@ -209,7 +217,8 @@
 		"uniques": [
 			"Can build [Land] improvements on tiles", 
 			"Ignores terrain cost", 
-			"May withdraw before melee <with [50]% chance>"],
+			"May withdraw before melee <with [50]% chance>"
+		]
 	},
 
 	// Fairy Alliance ( Cirno )
@@ -252,7 +261,7 @@
 		"movement": 2,
 		"strength": 15,
 		"cost": 75,
-		"uniques": ["[1] additional attacks per turn", "[-38]% Strength <when attacking>"]
+		"uniques": ["[1] additional attacks per turn", "[-38]% Strength <when attacking>"],
 		"requiredTech": "Iron Working",
 		"upgradesTo": "Longswordsman",
 		"obsoleteTech": "Gunpowder",
