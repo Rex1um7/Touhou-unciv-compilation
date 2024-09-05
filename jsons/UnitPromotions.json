@@ -51,7 +51,7 @@
 	{
 		"name": "Careful",
 		"prerequisites": ["Precise Strike"],
-		"uniques": ["May withdraw before melee <with [50]% chance>", "Can move after attacking"],
+		"uniques": ["May withdraw before melee combat <with [50]% chance>", "Can move after attacking"],
 		"unitTypes": ["Dark Youkai"],
 	},
 	{
