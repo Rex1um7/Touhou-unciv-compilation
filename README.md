@@ -2,7 +2,7 @@
 
 Main mod is not by me , just fix some problem to make the mod work
 
-Mod content (with leader icon):
+[Mod content]:
 
 // fairy alliaiance:
 
@@ -10,6 +10,6 @@ Mod content (with leader icon):
 
 // martagroid
 
-Leader icon:
+[Leader icon]
 
 Rumia: https://www.pixiv.net/artworks/106244154
