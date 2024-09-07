@@ -820,3 +820,60 @@ UnitPromotionIcons/Sharpened Blades
   orig: 100, 100
   offset: 0, 0
   index: -1
+
+//************************************************************//
+// ( Each Leader Icon )
+LeaderIcons.png
+size: 1353,706
+format: RGBA8888
+filter: MipMapLinearLinear,MipMapLinearLinear
+repeat: none
+LeaderIcons/Cirno
+ rotate: false
+  xy: 1067, 0
+  size: 706, 706
+  orig: 706, 706
+  offset: 0, 0
+  index: -1
+LeaderIcons/Rumia
+ rotate: false
+  xy: 1203, 43
+  size: 150, 139
+  orig: 150, 139
+  offset: 0, 0
+  index: -1
+LeaderIcons/Alice Margatroid
+ rotate: false
+  xy: 714, 85
+  size: 315, 315
+  orig: 315, 315
+  offset: 0, 0
+  index: -1
+LeaderIcons/Remilia Scarlet
+ rotate: false
+  xy: 700, 190
+  size: 217, 217
+  orig: 217, 217
+  offset: 0, 0
+  index: -1
+LeaderIcons/Keine Kamashirasawa
+ rotate: false
+  xy: 1067, 24
+  size: 158, 158
+  orig: 158, 158
+  offset: 0, 0
+  index: -1
+LeaderIcons/Reimu
+ rotate: false
+  xy: 714, 408
+  size: 345, 298
+  orig: 345, 298
+  offset: 0, 0
+  index: -1
+LeaderIcons/Satori Komeiji
+ rotate: false
+  xy: 1067, 415
+  size: 250, 291
+  orig: 250, 291
+  offset: 0, 0
+  index: -1
