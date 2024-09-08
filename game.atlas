@@ -1,7 +1,7 @@
 
 // Kurai Sekai ( Rumia )
 game.png
-size: 852,71
+size: 1200,100
 format: RGBA8888
 filter: MipMapLinearLinear,MipMapLinearLinear
 repeat: none
@@ -92,7 +92,7 @@ UnitIcons/Controlled Darkness
 
 // Kurai Sekai ( Rumia )
 game2.png
-size: 852,32
+size: 2600,100
 format: RGBA8888
 filter: MipMapLinearLinear,MipMapLinearLinear
 repeat: none
@@ -393,7 +393,7 @@ TileSets/FantasyHex/Units/Controlled Darkness
 
 // Kurai Sekai ( Rumia )
 game4.png
-size: 852,142
+size: 1200,200
 format: RGBA8888
 filter: MipMapLinearLinear,MipMapLinearLinear
 repeat: none
@@ -571,7 +571,7 @@ BuildingIcons/Fairy Epic
 //************************************************************//
 // The Unified Doll Front ( Alice Margatroid )
 game9.png
-size: 726, 202
+size: 898, 250
 format: RGBA8888
 filter: MipMapLinearLinear,MipMapLinearLinear
 repeat: none
@@ -823,23 +823,17 @@ UnitPromotionIcons/Sharpened Blades
 
 //************************************************************//
 // ( Each Leader Icon )
+
 LeaderIcons.png
-size: 852,444
+size: 1353,706
 format: RGBA8888
 filter: MipMapLinearLinear,MipMapLinearLinear
 repeat: none
 LeaderIcons/Cirno
  rotate: false
-  xy: 1067, 0
+  xy: 0, 0
   size: 706, 706
   orig: 706, 706
-  offset: 0, 0
-  index: -1
-LeaderIcons/Rumia
- rotate: false
-  xy: 1203, 43
-  size: 150, 139
-  orig: 150, 139
   offset: 0, 0
   index: -1
 LeaderIcons/Alice Margatroid
@@ -849,11 +843,11 @@ LeaderIcons/Alice Margatroid
   orig: 315, 315
   offset: 0, 0
   index: -1
-LeaderIcons/Remilia Scarlet
+LeaderIcons/Reimu
  rotate: false
-  xy: 700, 190
-  size: 217, 217
-  orig: 217, 217
+  xy: 714, 408
+  size: 345, 298
+  orig: 345, 298
   offset: 0, 0
   index: -1
 LeaderIcons/Keine Kamashirasawa
@@ -863,11 +857,11 @@ LeaderIcons/Keine Kamashirasawa
   orig: 158, 158
   offset: 0, 0
   index: -1
-LeaderIcons/Reimu
+LeaderIcons/Remilia Scarlet
  rotate: false
-  xy: 714, 408
-  size: 345, 298
-  orig: 345, 298
+  xy: 700, 190
+  size: 217, 217
+  orig: 217, 217
   offset: 0, 0
   index: -1
 LeaderIcons/Satori Komeiji
@@ -875,5 +869,12 @@ LeaderIcons/Satori Komeiji
   xy: 1067, 415
   size: 250, 291
   orig: 250, 291
+  offset: 0, 0
+  index: -1
+LeaderIcons/Rumia
+ rotate: false
+  xy: 1203, 43
+  size: 150, 139
+  orig: 150, 139
   offset: 0, 0
   index: -1
