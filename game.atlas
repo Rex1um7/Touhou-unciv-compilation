@@ -1,5 +1,4 @@
 
-/* Kurai Sekai ( Rumia ) */
 game.png
 size: 1200,100
 format: RGBA8888
@@ -437,7 +436,6 @@ UnitIcons/Stage Boss Rumia
   offset: 0, 0
   index: -1
 
-//Ningen no Sato ( Keine Kamashirasawa )
 game5.png
 size: 432,100
 format: RGBA8888
@@ -479,7 +477,6 @@ rotate: false
   offset: 0, 0
   index: -1
 
-//The Scarlet Estate ( Remilia Scarlet )
 game6.png
 size: 332,100
 format: RGBA8888
@@ -514,7 +511,6 @@ rotate: false
   offset: 0, 0
   index: -1
 
-//Fairy Alliance ( Cirno )
 game7.png
 size: 432,100
 format: RGBA8888
@@ -562,7 +558,6 @@ BuildingIcons/Fairy Epic
   offset: 100, 100
   index: -1
 
-//The Unified Doll Front ( Alice Margatroid )
 game9.png
 size: 898, 250
 format: RGBA8888
@@ -667,7 +662,6 @@ TileSets/FantasyHex/Tiles/Tundra+Hill+Forest+Doll lumber house
   offset: 0, 0
   index: -1
 
-//Hakurei Shrine ( Reimu )
 game10.png
 size: 500,100
 format: RGBA8888
@@ -716,7 +710,6 @@ NationIcons/Hakurei Shrine
   offset: 0, 0
   index: -1
 
-//Chireiden ( Satori Komeiji )
 game11.png
 size: 200,100
 format: RGBA8888
