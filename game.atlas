@@ -1,7 +1,7 @@
 
 // Kurai Sekai ( Rumia )
 game.png
-size: 1500,100
+size: 852,71
 format: RGBA8888
 filter: MipMapLinearLinear,MipMapLinearLinear
 repeat: none
@@ -92,7 +92,7 @@ UnitIcons/Controlled Darkness
 
 // Kurai Sekai ( Rumia )
 game2.png
-size: 2600,100
+size: 852,32
 format: RGBA8888
 filter: MipMapLinearLinear,MipMapLinearLinear
 repeat: none
@@ -393,7 +393,7 @@ TileSets/FantasyHex/Units/Controlled Darkness
 
 // Kurai Sekai ( Rumia )
 game4.png
-size: 1200,200
+size: 852,142
 format: RGBA8888
 filter: MipMapLinearLinear,MipMapLinearLinear
 repeat: none
@@ -571,7 +571,7 @@ BuildingIcons/Fairy Epic
 //************************************************************//
 // The Unified Doll Front ( Alice Margatroid )
 game9.png
-size: 900, 250
+size: 726, 202
 format: RGBA8888
 filter: MipMapLinearLinear,MipMapLinearLinear
 repeat: none
@@ -727,7 +727,7 @@ NationIcons/Hakurei Shrine
 //************************************************************//
 // Chireiden ( Satori Komeiji )
 game11.png
-size: 232,100
+size: 200,100
 format: RGBA8888
 filter: MipMapLinearLinear,MipMapLinearLinear
 repeat: none
@@ -747,7 +747,7 @@ UnitPromotionIcons/Satori Race
   index: -1
 
 game12.png
-size: 132,100
+size: 100,100
 format: RGBA8888
 filter: MipMapLinearLinear,MipMapLinearLinear
 repeat: none
@@ -824,7 +824,7 @@ UnitPromotionIcons/Sharpened Blades
 //************************************************************//
 // ( Each Leader Icon )
 LeaderIcons.png
-size: 1353,706
+size: 852,444
 format: RGBA8888
 filter: MipMapLinearLinear,MipMapLinearLinear
 repeat: none
