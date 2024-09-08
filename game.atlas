@@ -840,7 +840,7 @@ LeaderIcons/Keine Kamashirasawa
   index: -1
 LeaderIcons/Remilia Scarlet
  rotate: false
-  xy: 700, 190
+  xy: 1067, 190
   size: 217, 217
   orig: 217, 217
   offset: 0, 0
@@ -854,7 +854,7 @@ LeaderIcons/Satori Komeiji
   index: -1
 LeaderIcons/Rumia
  rotate: false
-  xy: 1203, 43
+  xy: 1233, 43
   size: 150, 139
   orig: 150, 139
   offset: 0, 0
