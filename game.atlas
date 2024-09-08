@@ -806,56 +806,64 @@ UnitPromotionIcons/Sharpened Blades
   index: -1
 
 LeaderIcons.png
-size: 1353,706
+size: 1524,1522
 format: RGBA8888
 filter: MipMapLinearLinear,MipMapLinearLinear
 repeat: none
 LeaderIcons/Cirno
  rotate: false
   xy: 0, 0
-  size: 706, 706
-  orig: 706, 706
+  size: 1524,1522
+  orig: 1524,1522
   offset: 0, 0
   index: -1
-LeaderIcons/Alice Margatroid
- rotate: false
-  xy: 714, 85
-  size: 315, 315
-  orig: 315, 315
-  offset: 0, 0
-  index: -1
+
+LeaderIcons2.png
+size: 1314,1170
+format: RGBA8888
+filter: MipMapLinearLinear,MipMapLinearLinear
+repeat: none
 LeaderIcons/Reimu
  rotate: false
-  xy: 714, 408
-  size: 345, 298
-  orig: 345, 298
-  offset: 0, 0
-  index: -1
-LeaderIcons/Keine Kamashirasawa
- rotate: false
-  xy: 1067, 24
-  size: 158, 158
-  orig: 158, 158
-  offset: 0, 0
-  index: -1
-LeaderIcons/Remilia Scarlet
- rotate: false
-  xy: 1067, 190
-  size: 217, 217
-  orig: 217, 217
-  offset: 0, 0
-  index: -1
-LeaderIcons/Satori Komeiji
- rotate: false
-  xy: 1067, 415
-  size: 250, 291
-  orig: 250, 291
+  xy: 0, 23
+  size: 552, 477
+  orig: 552, 477
   offset: 0, 0
   index: -1
 LeaderIcons/Rumia
  rotate: false
-  xy: 1233, 43
-  size: 150, 139
-  orig: 150, 139
+  xy: 0, 508
+  size: 662, 662
+  orig: 662, 662
   offset: 0, 0
   index: -1
+LeaderIcons/Satori Komeiji
+ rotate: false
+  xy: 560, 34
+  size: 400, 466
+  orig: 400, 466
+  offset: 0, 0
+  index: -1
+LeaderIcons/Alice Margatroid
+ rotate: false
+  xy: 670, 667
+  size: 503, 503
+  orig: 503, 503
+  offset: 0, 0
+  index: -1
+LeaderIcons/Keine Kamashirasawa
+ rotate: false
+  xy: 968, 0
+  size: 305, 305
+  orig: 305, 305
+  offset: 0, 0
+  index: -1
+LeaderIcons/Remilia Scarlet
+ rotate: false
+  xy: 968, 313
+  size: 346, 346
+  orig: 346, 346
+  offset: 0, 0
+  index: -1
+
+
