@@ -52,7 +52,7 @@
 		"uniqueTo": "Kurai Sekai",
 		"hurryCostModifier": 25,
 		"maintenance": 1,
-		"uniques": ["New [Military] units start with [15] Experience [in this city]", "Destroyed when the city is captured", "All newly-trained [non-air] units [in this city] receive the [Instinct Restraint] promotion" ],
+		"uniques": ["New [Military] units start with [15] XP [in this city]", "Destroyed when the city is captured", "All newly-trained [non-air] units [in this city] receive the [Instinct Restraint] promotion" ],
 		"requiredTech": "Bronze Working"
 	},
 	{
@@ -71,7 +71,7 @@
 		"hurryCostModifier": 25,
 		"maintenance": 1,
 		"requiredBuilding": "Barracks",
-		"uniques": ["New [Military] units start with [15] Experience [in this city]", "All newly-trained [non-air] units [in this city] receive the [Instinct Mastery] promotion"],
+		"uniques": ["New [Military] units start with [15] XP [in this city]", "All newly-trained [non-air] units [in this city] receive the [Instinct Mastery] promotion"],
 		"requiredTech": "Steel"
 	},
 	{
