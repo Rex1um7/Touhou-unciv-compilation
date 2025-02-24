@@ -71,7 +71,7 @@
 		"uniqueName": "Scarlet Mist",
 		"uniques" : [
 			"[-25]% Culture cost of natural border growth [in all cities]", 
-			"New [Military] units start with [15] Experience [in all cities]", 
+			"New [Military] units start with [15] XP [in all cities]", 
 			"[-25]% construction time for [All] improvements"
 		],
 		"cities": ["Scarlet Mansion", "Amaranth", "Gungnir", "Carnelian", "Voile", "Misty Lake", "Piros", "Sarkans", "Lavatein", "Antares",
